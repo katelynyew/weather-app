@@ -27,6 +27,7 @@ html, body {
     border-radius: 10px;
     margin: 10px;
     justify-content: cetner;
+    box-shadow: 0px 10px 10px 1px;
 }
 .location-container .header {
     font-size: 0.7rem;
@@ -59,10 +60,16 @@ html, body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    color: white;
 }
 .name-container h1{
     margin: 0;
     font-size: 2.3rem;
+    
+}
+.details-container{
+    color: rgb(0, 0, 0)
+    
 }
 .temperature-container {
     display: flex;
