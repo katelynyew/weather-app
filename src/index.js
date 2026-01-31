@@ -3,6 +3,10 @@ import { fetchWeather } from "./api";
 import { renderWeather } from "./ui";
 import './style.css';
 import searchImage from '../assets/images/search.svg'
+import bg from '../assets/images/sky.jpg'
+
+const maincontent = document.querySelector(".main-content");
+maincontent.style.backgroundImage = `url(${bg})`;
 
 const searchImg = document.querySelector(".search-box img");
 searchImg.src = searchImage;
