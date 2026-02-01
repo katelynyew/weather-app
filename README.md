@@ -4,7 +4,7 @@
 
 [Live Demo](https://katelynyew.github.io/weather-app) | [View Code](https://github.com/katelynyew/weather-app)
 
-![Weather App Preview](./screenshots/hero.png)
+![Weather App Preview](./assets/images/sc_weatherapp.png)
 
 ---
 
@@ -40,13 +40,9 @@ Weather App is a sleek, user-friendly application that fetches real-time weather
 ##  Screenshots
 
 ### Desktop View
-![Desktop View](./screenshots/desktop.png)
+![Desktop View](./assets/images/sc_weatherapp.png)
 
-### Mobile View
-<img src="./screenshots/mobile.png" width="300">
 
-### Unit Toggle Feature
-![Unit Toggle](./screenshots/toggle.gif)
 
 ---
 
