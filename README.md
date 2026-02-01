@@ -1,4 +1,4 @@
-# ⛅ Weather App
+#  Weather App
 
 > A modern, responsive weather application providing real-time weather data for locations worldwide
 
@@ -8,7 +8,7 @@
 
 ---
 
-## 📋 Table of Contents
+##  Table of Contents
 - [Overview](#overview)
 - [Features](#features)
 - [Screenshots](#screenshots)
@@ -18,7 +18,7 @@
 
 ---
 
-## 🎯 Overview
+##  Overview
 
 Weather App is a sleek, user-friendly application that fetches real-time weather data from the Visual Crossing API. Users can search any location worldwide and toggle between Celsius and Fahrenheit units.
 
@@ -26,7 +26,7 @@ Weather App is a sleek, user-friendly application that fetches real-time weather
 
 ---
 
-## ✨ Features
+##  Features
 
 ✅ **Real-time Weather Data** - Fetches current conditions from Visual Crossing API  
 ✅ **Location Search** - Search weather for any city worldwide  
@@ -37,7 +37,7 @@ Weather App is a sleek, user-friendly application that fetches real-time weather
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 ### Desktop View
 ![Desktop View](./screenshots/desktop.png)
@@ -50,7 +50,7 @@ Weather App is a sleek, user-friendly application that fetches real-time weather
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Frontend:**
 - JavaScript (ES6 Modules)
@@ -72,7 +72,7 @@ Weather App is a sleek, user-friendly application that fetches real-time weather
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Node.js & npm
@@ -101,7 +101,7 @@ npm run build
 
 ---
 
-## 💡 What I Learned
+##  What I Learned
 
 **Technical Skills:**
 - Working with third-party RESTful APIs
@@ -118,7 +118,7 @@ npm run build
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 - [ ] 7-day weather forecast
 - [ ] Geolocation auto-detection
@@ -128,7 +128,7 @@ npm run build
 
 ---
 
-## 📄 License
+##  License
 
 MIT License - feel free to use this project for learning
 
